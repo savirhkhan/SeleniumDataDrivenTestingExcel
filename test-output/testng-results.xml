@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T11:54:42 IST" name="Default suite" finished-at="2023-01-24T11:55:27 IST" duration-ms="45264">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T11:54:42 IST" name="Default test" finished-at="2023-01-24T11:55:27 IST" duration-ms="45264">
+      <class name="com.web.tests.LoginPageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:54:44 IST" name="setup" finished-at="2023-01-24T11:54:55 IST" duration-ms="10642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:54:55 IST" name="verifyLogin" data-provider="getDataFromExcel" finished-at="2023-01-24T11:55:01 IST" duration-ms="5929" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr465162]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vabYrAd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="cleaUp()[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:55:01 IST" name="cleaUp" finished-at="2023-01-24T11:55:01 IST" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleaUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:55:01 IST" name="setup" finished-at="2023-01-24T11:55:07 IST" duration-ms="6411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:55:07 IST" name="verifyLogin" data-provider="getDataFromExcel" finished-at="2023-01-24T11:55:14 IST" duration-ms="7012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr465162]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vabYrAd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="cleaUp()[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:55:14 IST" name="cleaUp" finished-at="2023-01-24T11:55:15 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleaUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:55:15 IST" name="setup" finished-at="2023-01-24T11:55:21 IST" duration-ms="5971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:55:21 IST" name="verifyLogin" data-provider="getDataFromExcel" finished-at="2023-01-24T11:55:27 IST" duration-ms="6020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr465162]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vabYrAd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="cleaUp()[pri:0, instance:com.web.tests.LoginPageTests@5a45133e]" started-at="2023-01-24T11:55:27 IST" name="cleaUp" finished-at="2023-01-24T11:55:27 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleaUp -->
+      </class> <!-- com.web.tests.LoginPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
